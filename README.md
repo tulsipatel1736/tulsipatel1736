@@ -3,7 +3,7 @@
 
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
-- 👨‍💻 All of my projects are available <a href = "https://www.behance.net/tulsipatel18">here</a>
+👨‍💻 All of my projects are available <a href = "https://www.behance.net/tulsipatel18">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
