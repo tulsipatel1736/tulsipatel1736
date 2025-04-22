@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Tulsi Patel</h1>
-<h3 align="center">🚀💻 A final year CS student who is a passionate developer with a love for clean code, creative solutions, and building impactful software—always learning, always shipping</h3>
+<h3 align="center">A final year CS student who is a passionate developer with a love for clean code, creative solutions, and building impactful software—always learning, always shipping</h3>
+
+<p>  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/tulsipatel18](https://www.behance.net/tulsipatel18)
 
